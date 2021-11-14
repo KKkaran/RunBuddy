@@ -1,5 +1,5 @@
 # Run Buddy
-
+Whatevre
 ## Purpose
 A website that offers fitness training services.
 
